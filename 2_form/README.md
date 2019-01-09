@@ -12,7 +12,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 ~~~html
 <form action="action_page.php" name=“nickname” method=“GET”>
 ~~~
-<img src="./img/form.png"></img>
+<src="../img/form.png"></img>
 
 ## 1.2 Input element
 
@@ -70,7 +70,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 </select>
 ~~~
 
-<img width="120" src="./img/form_select.png"></img>
+<img width="120" src="../img/form_select.png"></img>
 
 * __Multiple__ property => Multiple 선택을 가능하게 해 줌
 
@@ -87,7 +87,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 
 * __Selected__ property => 특정 항목을 지정할 수 있다.
 
-<img src="./img/form_selected.png"></img>
+<img src="../img/form_selected.png"></img>
 
 * __Placeholder__ property
 ~~~html
@@ -95,7 +95,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 <input type="text" ... placeholder="Last name">
 ~~~
 
-<img  src="./img/form_placeholder.png"></img>
+<img  src="../img/form_placeholder.png"></img>
 
 ### Label
 
