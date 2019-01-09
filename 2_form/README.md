@@ -83,7 +83,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 </select>
 ~~~
 
-<img width="120" src="./img/form_multiple.png"></img>
+<img width="120" src="../img/form_multiple.png"></img>
 
 * __Selected__ property => 특정 항목을 지정할 수 있다.
 
