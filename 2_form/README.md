@@ -1,8 +1,8 @@
-# Form in HTML
+# 2. Form in HTML
 
 html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자의 입력도 받을 수 있다. 이런 입력들을 container 형식으로 묶어서 서버에 보낼 수 있게 끔 할 수 있는 것이 form tag이다.
 
-## 1.1 Form tag
+## 2.1 Form tag
 
 * form안에 사용자 입력 element들을 container 형식을 묶는다.
 * __name__ : form의 이름을 지정할 수 있다.
@@ -14,7 +14,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 ~~~
 <src="../img/form.png"></img>
 
-## 1.2 Input element
+## 2.2 Input element
 
 사용자 입력을 도와주는 요소이며, 여러 contorl이 존재한다.
 
