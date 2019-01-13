@@ -88,7 +88,7 @@ Paragraph, break, pre
   * ``` <h1>, <h2>,..., <p>, <blockquote>, <ol>, <ul>, <li> ```
   * Element 앞과 뒤에서 line break를 가진다. (줄바꿈)
 
-* 인Inline element:
+* Inline element:
   *  Inline Element는 Inline Element만을 포함
   *  줄바꿈 되지않음
 
@@ -221,7 +221,15 @@ p {margin-left: 50px}
 
 > 중요! html에서 class나 id naming을 잘 지정해줘야 css를 쉽게 작성할 수 있다.
 
-## HTML5 (2014)
+### Margin & Padding
+
+<img src="https://image-proxy-cdn.teamtreehouse.com/e4314d5c336cc352a806606bac61d4cffd46ae69/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6e4e4b48682e676966"/>
+
+
+* padding : content 와 border사이의 공백 거리
+* margin : border 밖에 공백 거리
+
+## 1.4 HTML5 (2014)
 
 * Multimedia지원
 It includes multimedia elements 
