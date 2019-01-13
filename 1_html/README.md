@@ -222,6 +222,7 @@ p {margin-left: 50px}
 > 중요! html에서 class나 id naming을 잘 지정해줘야 css를 쉽게 작성할 수 있다.
 
 ### Margin & Padding
+tag의 영역의 구조는 크게 margin-border-padding-content로 구성되어있다. 물론 이런 구조도 css를 통해 스타일을 지정할 수 있다.
 
 <img src="https://image-proxy-cdn.teamtreehouse.com/e4314d5c336cc352a806606bac61d4cffd46ae69/687474703a2f2f692e737461636b2e696d6775722e636f6d2f6e4e4b48682e676966"/>
 
