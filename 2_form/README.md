@@ -12,7 +12,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 ~~~html
 <form action="action_page.php" name=“nickname” method=“GET”>
 ~~~
-<src="../img/form.png"></img>
+<img src="../img/form.png"></img>
 
 ## 2.2 Input element
 
