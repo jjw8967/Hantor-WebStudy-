@@ -16,7 +16,7 @@ html 안에는 웹 상에 본문을 보여주는 것 뿐만 아니라, 사용자
 
 ## 2.2 Input element
 
-사용자 입력을 도와주는 요소이며, 여러 contorl이 존재한다.
+사용자 입력을 도와주는 요소이며, 여러 control이 존재한다.
 
 ### Form control
 
