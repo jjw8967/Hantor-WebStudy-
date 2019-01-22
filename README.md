@@ -1,5 +1,6 @@
 # Hantor-WebStudy-
 ## 목차
 
-1. html & css
-2. form in html
+1. HTML & CSS
+2. Form in HTML
+3. Javascript (Fundamentals)
