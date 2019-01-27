@@ -227,10 +227,10 @@ console.log(foo);  // bar1
 ## 3.6 Expressions and Operator
 
 ### Expressions
-* Array => ```var a = [1, 1+2, 4];)```
-* Object => ```var p = {x:2.3 , y: -1.2};)```
+* Array => ```var a = [1, 1+2, 4];```
+* Object => ```var p = {x:2.3 , y: -1.2};```
 * Function => ```var squre = function(x) { return x*x;};```
-* Property Accesss Expression => ```expression.identifier``` or ```expression[expression]```
+* Property Accesss Expression => ```expression.identifier``` or ```expression[identifier]```
 * Object Creation Expression => ```new Point(2,3)```
 
 ### Arithmetic Operators
